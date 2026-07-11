@@ -1,30 +1,42 @@
-# Week 01 Reflection
+# Week 01 Reflection: Foundations
 
 ## What I Learned
 
-This week I learned that cybersecurity is much more than stopping hackers.
+This week I began developing the mindset of a Security Operations Center (SOC) analyst.
 
-I learned how to think like a security analyst by gathering evidence before making assumptions.
+I learned that cybersecurity is not only about tools, but about investigation, critical thinking, and understanding what normal behavior looks like before identifying threats.
 
-I also learned:
+## Key Lessons
 
-- Basic Windows investigation concepts
-- Network traffic fundamentals
-- How packets travel across a network
-- Why logs are important
+### Thinking Like a Security Analyst
+- Ask questions before making assumptions.
+- Gather evidence.
+- Identify what changed.
+- Determine if activity is expected or suspicious.
 
-## Biggest Challenge
+### Windows Investigation
+- A computer can be treated like a crime scene.
+- Evidence can exist in logs, files, processes, and user activity.
+- Timeline analysis helps reconstruct what happened.
 
-Learning GitHub.
+### Network Traffic
+- Network communication can reveal suspicious behavior.
+- Analysts examine connections, ports, protocols, and patterns.
+- Logs and packet captures provide important evidence.
 
-At first I felt like I was just following instructions, but I now understand repositories, folders, README files, and commits much better.
+## Skills Practiced
 
-## What I'm Most Proud Of
+- Security investigation mindset
+- Documentation
+- Incident analysis
+- Basic threat identification
 
-Building my first professional cybersecurity portfolio.
+## Questions I Still Have
 
-## Goals for Next Week
+- How do analysts prioritize alerts?
+- How do SIEM tools help during investigations?
+- What makes an event become a true security incident?
 
-- Learn Windows Event Logs
-- Become more comfortable using GitHub
-- Continue thinking like a security analyst
+## Next Mission
+
+Continue building technical skills by practicing log analysis and learning how SOC analysts use security tools.
